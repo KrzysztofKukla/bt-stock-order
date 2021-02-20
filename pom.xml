@@ -28,6 +28,17 @@
             <artifactId>bt-model</artifactId>
             <version>${bt-model.version}</version>
         </dependency>
+        <dependency>
+            <groupId>io.github.microutils</groupId>
+            <artifactId>kotlin-logging</artifactId>
+            <version>1.6.22</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.25</version>
+        </dependency>
+
         <!--         Embedded Mongodb server -->
         <!--		<dependency>-->
         <!--			<groupId>de.flapdoodle.embed</groupId>-->
