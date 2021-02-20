@@ -15,7 +15,7 @@
     <description>Stock order service to define and observe stocks</description>
 
     <properties>
-        <bt-model.version>00.01.18-SNAPSHOT</bt-model.version>
+        <bt-model.version>00.01.19-SNAPSHOT</bt-model.version>
     </properties>
 
     <dependencies>
