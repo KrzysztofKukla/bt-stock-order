@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: bt-stock-order
+  #log tracing
+  zipkin:
+    enabled: false
+  mongodb:
+    port: 0 #random port
+    host: localhost
+
+server:
+  port: 8084
+
+eureka:
+  client:
+    enabled: false
+
